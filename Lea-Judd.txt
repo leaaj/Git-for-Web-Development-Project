@@ -1,0 +1,14 @@
+https://codepen.io/LeaJudd/pen/mdyVEqw?editors=1100
+
+1. What is the difference between an inline element and a block element?
+
+block elements stack vertically, inline horizontally
+
+2. What happens when an element is positioned absolutely? 
+
+the element doesn't move relative to other elements, and will follow along wiht the scrolling of the page
+
+3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+
+4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+5. In your own words, explain the box model. What is the fix for the box model? 
