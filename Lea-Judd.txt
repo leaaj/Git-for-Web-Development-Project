@@ -6,9 +6,12 @@ block elements stack vertically, inline horizontally
 
 2. What happens when an element is positioned absolutely? 
 
-the element doesn't move relative to other elements, and will follow along wiht the scrolling of the page
+the element doesn't move relative to other elements, and will follow along with the scrolling of the page
 
 3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
 
 4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+
 5. In your own words, explain the box model. What is the fix for the box model? 
+
+the box model is how we describe the stucture of elements on a page, that looks like a box. It consists of border, padding, margin, and content
